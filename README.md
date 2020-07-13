@@ -1,5 +1,13 @@
 # Git Pro
 
-instructions for amending your commits
+## Part 1 - `git stash`
 
-more stuff.
+- stashing
+- popping
+- dropping
+
+## Part 2 - `git commit --amend`
+
+- --no-edit
+- -m
+- no args?? 🥴
