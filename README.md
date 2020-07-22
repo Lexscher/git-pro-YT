@@ -11,3 +11,7 @@
 - --no-edit
 - -m
 - no args?? 🥴
+
+## Part 3 - `git rebase [branch]`
+
+- we're going to turn up toDAY
