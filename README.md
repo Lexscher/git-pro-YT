@@ -15,3 +15,7 @@
 ## Part 3 - `git rebase [branch]`
 
 - we're going to turn up toDAY
+
+## Part 4 - squashing commits
+
+- We're going to learn about squashing commits
